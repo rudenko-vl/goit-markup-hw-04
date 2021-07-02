@@ -351,7 +351,7 @@ body {
   margin-top: 16px;
 }
 .social-list-icon {
-fill: #AFB1B8;
+  fill: #afb1b8;
 }
 .social-list-link {
   display: flex;
@@ -364,7 +364,7 @@ fill: #AFB1B8;
 }
 .social-list-link:hover,
 .social-list-link:focus {
-  background-color:var(--accent-color);
+  background-color: var(--accent-color);
   fill: #ffffff;
 }
 /* ----------END TEAM------ */
@@ -398,18 +398,19 @@ fill: #AFB1B8;
 }
 .company-logo {
   display: inline-block;
-    width: 170px;
-    height: 92px;
-    border: 1px solid #afb1b8;
-    box-sizing: border-box;
-    border-radius: 4px;
-    padding: 16px 32px;
+  width: 170px;
+  height: 92px;
+  border: 1px solid #afb1b8;
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 16px 32px;
 }
-.company-logo:hover, .company-logo:focus {
+.company-logo:hover,
+.company-logo:focus {
   fill: var(--accent-color);
 }
 .regular-client-icon {
-  fill: #AFB1B8;
+  fill: #afb1b8;
 }
 /* ----------FOOTER--------- */
 
@@ -450,24 +451,22 @@ fill: #AFB1B8;
 
 .fotter-right-side {
   display: inline-block;
-  
 }
 .social-foot-title {
   font-style: normal;
-font-weight: 700;
-font-size: 14px;
-line-height: 16px;
-letter-spacing: 1.14;
-text-transform: uppercase;
-color: #FFFFFF;
-margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 1.14;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-bottom: 20px;
 }
 .footer-social-list {
   display: flex;
   justify-content: center;
 }
 
-}
 /* ----------END FOOTER------ */
 
 /* ----------PORTFOLIO--------- */
